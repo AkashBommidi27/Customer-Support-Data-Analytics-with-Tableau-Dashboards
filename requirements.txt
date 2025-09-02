@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+matplotlib-venn
+statsmodels
+nltk
+xgboost
+lightgbm
+catboost
+shap
+tensorflow; platform_system != "Darwin" or platform_machine != "arm64"
+jupyterlab
